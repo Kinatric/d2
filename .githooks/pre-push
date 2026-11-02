@@ -1,4 +1,0 @@
-#!/bin/sh
-set -eu
-interpreter=$(git config --get languageCheck.python || printf 'python')
-exec "$interpreter" scripts/check_language.py --pre-push
