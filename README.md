@@ -27,6 +27,12 @@ Venue: Las Vegas Convention Center (LVCC), Las Vegas, Nevada, USA.
 
 All times are local to Las Vegas (Pacific Standard Time, UTC-8). See the [official CES dates and hours](https://www.ces.tech/plan-your-visit/dates-and-hours/) for the latest schedule.
 
+## D2 Introduction Video
+
+[![Watch the Kinatric D2 introduction on YouTube](assets/product/01-kinatric-d2-2.jpg)](https://www.youtube.com/watch?v=oJ8hTRRnxSY)
+
+[Watch the D2 introduction video on YouTube](https://www.youtube.com/watch?v=oJ8hTRRnxSY).
+
 ## Product Photos
 
 Product photos are available in [`assets/product/`](assets/product/), downloaded from the [Kinatric D2 product page](https://updates.kinatric.com/products/kinatric-d2).
