@@ -4,7 +4,7 @@
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)](#project-status)
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)](LICENSE)
 
-https://github.com/user-attachments/assets/b7929fe2-37f4-4ff8-8edd-54b22a08e939
+[![Play the Kinatric D2 introduction video on YouTube](assets/product/d2-youtube-cover.png)](https://www.youtube.com/watch?v=oJ8hTRRnxSY)
 
 This is the main repository for the D2 open-source robotics project. It serves as the starting point for project information, hardware resources, technical documentation, and links to companion software repositories.
 
