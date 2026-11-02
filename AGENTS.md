@@ -10,4 +10,4 @@ Before every push, run `python scripts/check_language.py HEAD` and require a suc
 
 The hook checks every outgoing commit, including filenames, text files, STEP strings, Office XML, extractable PDF text and metadata, and commit messages. Install `scripts/requirements-language.txt` in the Python environment used by the hook. A custom interpreter can be selected with `git config languageCheck.python /path/to/python`.
 
-Images, scanned PDFs, video frames, audio, and unsupported binary formats also require manual language review before pushing. Automated text extraction cannot prove that these assets contain no Chinese. Translate any Chinese content before publishing. Keep all new rules and tooling in English.
+All submitted content must use English, including text in images, scanned PDFs, video frames, audio, and other binary assets. Review these assets before pushing and translate any non-English content into English before submission. Keep all new rules and tooling in English.

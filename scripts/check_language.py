@@ -92,7 +92,7 @@ def main():
                 manual.add(name)
     print(f"Language check passed: {len(commits)} commits, {len(seen)} unique files.")
     if manual:
-        print(f"Manual visual/audio review required for {len(manual)} media or binary files; see AGENTS.md.")
+        print(f"All submitted content must use English. Review the text and audio in {len(manual)} media or binary files before pushing; see AGENTS.md.")
 
 
 if __name__ == "__main__":
