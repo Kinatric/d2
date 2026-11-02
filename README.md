@@ -4,7 +4,11 @@
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)](#project-status)
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)](LICENSE)
 
-![Kinatric D2 quadruped robot](assets/product/01-kinatric-d2-2.jpg)
+[![Play the Kinatric D2 introduction video on YouTube](assets/product/01-kinatric-d2-2.jpg)](https://www.youtube.com/watch?v=oJ8hTRRnxSY)
+
+[![Watch on YouTube](https://img.shields.io/badge/%E2%96%B6%20Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=oJ8hTRRnxSY)
+
+**Click the image above to watch the D2 introduction video on YouTube.**
 
 This is the main repository for the D2 open-source robotics project. It serves as the starting point for project information, hardware resources, technical documentation, and links to companion software repositories.
 
@@ -26,12 +30,6 @@ Venue: Las Vegas Convention Center (LVCC), Las Vegas, Nevada, USA.
 | Saturday, January 9, 2027 | 9:00 AM - 4:00 PM |
 
 All times are local to Las Vegas (Pacific Standard Time, UTC-8). See the [official CES dates and hours](https://www.ces.tech/plan-your-visit/dates-and-hours/) for the latest schedule.
-
-## D2 Introduction Video
-
-[![Watch the Kinatric D2 introduction on YouTube](assets/product/01-kinatric-d2-2.jpg)](https://www.youtube.com/watch?v=oJ8hTRRnxSY)
-
-[Watch the D2 introduction video on YouTube](https://www.youtube.com/watch?v=oJ8hTRRnxSY).
 
 ## Product Photos
 
