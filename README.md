@@ -4,7 +4,7 @@
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)](#project-status)
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)](LICENSE)
 
-[![Play the Kinatric D2 introduction video on YouTube](assets/product/01-kinatric-d2-2.jpg)](https://www.youtube.com/watch?v=oJ8hTRRnxSY)
+[![Play the Kinatric D2 introduction video on YouTube](assets/product/d2-youtube-cover.png)](https://www.youtube.com/watch?v=oJ8hTRRnxSY)
 
 [![Watch on YouTube](https://img.shields.io/badge/%E2%96%B6%20Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=oJ8hTRRnxSY)
 
