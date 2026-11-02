@@ -6,10 +6,6 @@
 
 [![Play the Kinatric D2 introduction video on YouTube](assets/product/d2-youtube-cover.png)](https://www.youtube.com/watch?v=oJ8hTRRnxSY)
 
-[![Watch on YouTube](https://img.shields.io/badge/%E2%96%B6%20Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=oJ8hTRRnxSY)
-
-**Click the image above to watch the D2 introduction video on YouTube.**
-
 This is the main repository for the D2 open-source robotics project. It serves as the starting point for project information, hardware resources, technical documentation, and links to companion software repositories.
 
 This repository connects D2 hardware design, motion data, policy training, simulation validation, and deployment resources. Hardware specifications, software dependencies, and compatibility will be documented with the corresponding releases.
