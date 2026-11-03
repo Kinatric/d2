@@ -47,7 +47,6 @@ The resource categories and workflow below describe the planned organization. Th
 
 | Goal | Starting point | Status |
 |---|---|---|
-| Check project progress | [Release checklist](#release-checklist) | Updated as resources become available |
 | Explore hardware and manufacturing resources | [Hardware resources](#hardware-resources) | Not yet published |
 | Find D2 training code | [Kinatric/d2_rl_lab](https://github.com/Kinatric/d2_rl_lab) | Training repository |
 | Find D2 deployment code | [Kinatric/rl_sim2real](https://github.com/Kinatric/rl_sim2real) | Deployment repository |
@@ -125,23 +124,6 @@ This repository contains documentation and hardware resources. For training code
 - This repository is the main entry point for D2 hardware resources, documentation, and companion software links.
 - Each companion software repository will document its own environment, installation steps, and validation requirements.
 - Compatibility between hardware, firmware, robot models, and control policies will be documented with releases.
-
-## Release Checklist
-
-- [x] Initialize the main repository and project README
-- [x] Add product photos
-- [ ] Add design overview and technical specifications
-- [ ] Publish mechanical models, manufacturing drawings, and the bill of materials
-- [ ] Publish electronics and embedded firmware
-- [ ] Add assembly, wiring, and calibration documentation
-- [x] Link the D2 training repository
-- [x] Link the D2 deployment repository
-- [x] Link the API repository
-- [x] Link the Android repository
-- [x] Link the iOS repository
-- [ ] Add remaining companion software repositories and environment requirements
-- [ ] Publish simulation validation and real-robot deployment guides
-- [x] Adopt GNU GPL v3.0 and add the license file
 
 ## Community and Social Media
 
