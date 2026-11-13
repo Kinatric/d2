@@ -2,7 +2,7 @@
 
 [![Project](https://img.shields.io/badge/Project-D2-2E8B57?style=flat-square)](https://github.com/Kinatric/d2)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)](#project-status)
-[![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)](LICENSE)
+[![Hardware license](https://img.shields.io/badge/Hardware-CERN--OHL--W--2.0-blue)](LICENSING.md) [![Software license](https://img.shields.io/badge/Software-GPL--3.0--or--later-blue)](LICENSING.md)
 
 [![Play the Kinatric D2 introduction video on YouTube](assets/product/d2-youtube-cover.png)](https://youtu.be/3pyi0c24YLs)
 
@@ -160,6 +160,4 @@ All repository content must be written in English, including documentation, code
 
 ## License
 
-This repository is distributed under the [GNU General Public License v3.0](LICENSE).
-
-Referenced projects and third-party resources retain their own licenses and notices. See [LICENSE](LICENSE) for the full terms.
+Kinatric-owned software and firmware contributions are licensed under **GPL-3.0-or-later**. Kinatric-owned robot hardware designs and associated manufacturing documentation are licensed under **CERN-OHL-W-2.0**, subject to the file coverage in [LICENSING.md](LICENSING.md). Third-party material retains its original licenses and attribution; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Both full license texts are included in [LICENSES/](LICENSES/). Kinatric-owned trained policy weights are also GPL-3.0-or-later; see the coverage table and provenance requirements.
