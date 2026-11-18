@@ -39,7 +39,7 @@ Product photos are available in [`assets/product/`](assets/product/), downloaded
 
 ## Project Status
 
-The project is under development. This repository contains project documentation, CAD resources in [`cad/`](cad/), and a bill of materials in [`bom/`](bom/). D2 training code is maintained in [Kinatric/d2_rl_lab](https://github.com/Kinatric/d2_rl_lab), and deployment code is maintained in [Kinatric/rl_sim2real](https://github.com/Kinatric/rl_sim2real). Electronics and assembly instructions have not yet been published.
+The project is under development. This repository contains project documentation, CAD resources in [`cad/`](cad/), and a bill of materials in [`bom/`](bom/). D2 training code is maintained in [Kinatric/d2_rl_lab](https://github.com/Kinatric/d2_rl_lab), and deployment code is maintained in [Kinatric/rl_sim2real](https://github.com/Kinatric/rl_sim2real). PCB design source remains private and is excluded from the hardware license grant. Assembly instructions have not yet been published.
 
 The resource categories and workflow below describe the planned organization. They do not indicate that hardware packages or runnable control software are already available.
 
@@ -161,3 +161,5 @@ All repository content must be written in English, including documentation, code
 ## License
 
 Kinatric-owned software and firmware contributions are licensed under **GPL-3.0-or-later**. Kinatric-owned robot hardware designs and associated manufacturing documentation are licensed under **CERN-OHL-W-2.0**, subject to the file coverage in [LICENSING.md](LICENSING.md). Third-party material retains its original licenses and attribution; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Both full license texts are included in [LICENSES/](LICENSES/). Kinatric-owned trained policy weights are also GPL-3.0-or-later; see the coverage table and provenance requirements.
+
+PCB designs and PCB source files are proprietary and excluded from the hardware license grant. Native CAD part and assembly files remain private; published mechanical files are exports. See [LICENSING.md](LICENSING.md) for coverage.
