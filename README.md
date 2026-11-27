@@ -52,35 +52,7 @@ The resource categories and workflow below describe the planned organization. Th
 | Find API code | [Kinatric/api](https://github.com/Kinatric/api) | API repository |
 | Find Android code | [Kinatric/android](https://github.com/Kinatric/android) | Android repository |
 | Find iOS code | [Kinatric/ios](https://github.com/Kinatric/ios) | iOS repository |
-| Understand the data, training, and deployment workflow | [Software workflow](#software-workflow) | Planned |
 | Report an issue or contribute | [Contributing](#contributing) | Contributions welcome |
-
-## Software Workflow
-
-The following workflow outlines the software organization. For D2 training code, see [Kinatric/d2_rl_lab](https://github.com/Kinatric/d2_rl_lab). For deployment code, see [Kinatric/rl_sim2real](https://github.com/Kinatric/rl_sim2real). Follow each repository's README for supported workflows, setup, usage, and validation requirements. Other software entry points will be added as they become available.
-
-```text
-D2 hardware models and parameters
-                |
-                v
-Motion data collection and quality checks
-                |
-                v
-Policy training, evaluation, and export
-                |
-                v
-Simulation validation and deployment interface checks
-                |
-                v
-Real-robot commissioning and operation
-```
-
-| Stage | Scope | D2 software repository |
-|---|---|---|
-| Motion data | Collect or generate motion data, record provenance, and verify quality | To be announced |
-| Policy training | D2 training code; see the training repository for supported workflows | [Kinatric/d2_rl_lab](https://github.com/Kinatric/d2_rl_lab) |
-| Simulation validation | Verify robot models, control interfaces, and policy behavior | To be announced |
-| Deployment | D2 deployment code; see the deployment repository for supported workflows and runtime requirements | [Kinatric/rl_sim2real](https://github.com/Kinatric/rl_sim2real) |
 
 ### API Code
 
