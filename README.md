@@ -47,14 +47,12 @@ The resource categories and workflow below describe the planned organization. Th
 
 | Goal | Starting point | Status |
 |---|---|---|
-| Explore hardware and manufacturing resources | [Hardware resources](#hardware-resources) | Not yet published |
 | Find D2 training code | [Kinatric/d2_rl_lab](https://github.com/Kinatric/d2_rl_lab) | Training repository |
 | Find D2 deployment code | [Kinatric/rl_sim2real](https://github.com/Kinatric/rl_sim2real) | Deployment repository |
 | Find API code | [Kinatric/api](https://github.com/Kinatric/api) | API repository |
 | Find Android code | [Kinatric/android](https://github.com/Kinatric/android) | Android repository |
 | Find iOS code | [Kinatric/ios](https://github.com/Kinatric/ios) | iOS repository |
 | Understand the data, training, and deployment workflow | [Software workflow](#software-workflow) | Planned |
-| Get the repository | [Clone the repository](#clone-the-repository) | Available |
 | Report an issue or contribute | [Contributing](#contributing) | Contributions welcome |
 
 ## Hardware Resources
