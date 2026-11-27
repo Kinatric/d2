@@ -55,20 +55,6 @@ The resource categories and workflow below describe the planned organization. Th
 | Understand the data, training, and deployment workflow | [Software workflow](#software-workflow) | Planned |
 | Report an issue or contribute | [Contributing](#contributing) | Contributions welcome |
 
-## Hardware Resources
-
-Hardware resources will be organized into the following categories. File locations, versions, and usage instructions will be added when each resource is published.
-
-| Resource | Planned contents | Status |
-|---|---|---|
-| Main bill of materials | Part specifications, quantities, and sourcing references | Not yet published |
-| Complete mechanical assembly | Full CAD assembly and exchange-format models | Not yet published |
-| Manufacturing package | Part models, engineering drawings, and manufacturing requirements | Not yet published |
-| 3D-printed parts | Printable models, material guidance, and assembly notes | Not yet published |
-| Electronics | Circuit designs, interface definitions, and wiring documentation | Not yet published |
-| Embedded firmware | Firmware source and flashing instructions for the corresponding hardware | Not yet published |
-| Assembly and calibration | Assembly steps, inspection items, and calibration procedures | Not yet published |
-
 ## Software Workflow
 
 The following workflow outlines the software organization. For D2 training code, see [Kinatric/d2_rl_lab](https://github.com/Kinatric/d2_rl_lab). For deployment code, see [Kinatric/rl_sim2real](https://github.com/Kinatric/rl_sim2real). Follow each repository's README for supported workflows, setup, usage, and validation requirements. Other software entry points will be added as they become available.
